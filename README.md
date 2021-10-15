@@ -9,5 +9,11 @@ clean, proven, and efficient code.
 - 📫 How to reach me: georgeguitarra07@gmail.com ...
 - 💼 Porfolio: [jorgejimenez.herokuapp.com]( https://jorgejimenez.herokuapp.com "Portfolio") 
 
+<div align="center" >
+ 
+## These are my summarized GitHub stats :chart_with_upwards_trend:
+![Estadística resumidas de GitHub](https://github-readme-stats.vercel.app/api?username=jorgejimenez98&show_icons=true&theme=tokyonight&line_height=27&count_private=true)
+ </div>
+
 
 
