@@ -2,7 +2,7 @@
   
  I am a software developer with 2 years of full-stack experience with Django and React, with the ability 
 to develop web systems and android applications. I enjoy working as a team, I'm self-motivated, fast learner, strong reasoning, problem solving skills, and skilled in creating 
-clean, proven, and efficient code.
+clean, proven, and efficient code. 
 
 - 🔭 I’m currently working to improve my skills, and learning new technologies ...
 - 💬 Ask me about algorithms, apps development, and good practices ...
