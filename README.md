@@ -1,9 +1,9 @@
 # <div align="center">Hello there! 👋 I'm Jorge Jiménez [Linkedin](https://www.linkedin.com/in/jorge-jimenez-diaz-6590b8206/ "LinkedIn")  </div>
 
 
-I'm a passionate **Software Engineer** and **Full Stack Developer** specializing in **MERN**, **MEAN**, and **MEVN** technology stacks, as well as **Python + Django**, **Android (Java)**, **Next.js**, and **Nuxt.js**. I thrive on solving challenging problems and crafting innovative solutions. My aim is to continuously learn and grow within the technology industry.
+I'm a passionate **Full Stack Software Engineer** specializing in **MERN**, **MEAN**, and **MEVN** technology stacks, as well as **Python + Django**, **Android (Java)**, **Next.js**, and **Nuxt.js**. I thrive on solving challenging problems and crafting innovative solutions. My aim is to continuously learn and grow within the technology industry.
 
-- 👨‍💼 Currently, I work as a **Team Leader and Full Stack Developer** at [Quental](https://quental.com).
+- 👨‍💼 Currently, I work as a **Senior Frontend Engineer** at [SEHMA](https://sehma.com).
 
 - 👨‍💼 Portfolio, you can find some of my experience description by clicking [here](https://jorgejimenez.dev).
 
